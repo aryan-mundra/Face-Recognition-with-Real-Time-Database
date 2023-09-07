@@ -5,11 +5,11 @@
 
 
 
-Once the face is recognized and attendance is marked, this screen appears
+# Once the face is recognized and attendance is marked, this screen appears
 
 ![122](https://github.com/aryan-mundra/Face-Recognition-with-Real-Time-Database/assets/144268029/9b4cc322-483b-4e08-afe1-25ab56aa55cd)
 
-#Steps to run this code
+# Steps to run this code
 1) Create and virtual environment
    ```python -m venv env```
 
@@ -27,8 +27,7 @@ Once the face is recognized and attendance is marked, this screen appears
    
    ```firebase_admin.initialize_app(cred, {
     'databaseURL': "PUT URL HERE",
-    'storageBucket': "PUT URL HERE"
-}) ```
+    'storageBucket': "PUT URL HERE"})
 
 9) Run EncodeGenerator.py
 10) Run  AddDatatoDatabase.py
