@@ -23,6 +23,8 @@
 5) Go to Project settings -- > Service accounts --> Generate new Private key(Python)
 6) Put the private key file in the main directory by the name "serviceAccountKey.json"
 7) Your directory should look like this
+
+   
    ![1](https://github.com/aryan-mundra/Face-Recognition-with-Real-Time-Database/assets/144268029/48cbf7e8-d436-4e50-bed0-db650c425f36)
    
 9) Firebase console --> Realtime database ---> Create new database in test mode
