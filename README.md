@@ -5,7 +5,7 @@
 
 
 
-# Once the face is recognized and attendance is marked, this screen appears
+ **Once the face is recognized and attendance is marked, this screen appears**
 
 ![122](https://github.com/aryan-mundra/Face-Recognition-with-Real-Time-Database/assets/144268029/9b4cc322-483b-4e08-afe1-25ab56aa55cd)
 
@@ -23,6 +23,7 @@
 5) Go to Project settings -- > Service accounts --> Generate new Private key(Python)
 6) Put the private key file in the main directory by the name "serviceAccountKey.json"
 7) Your directory should look like this
+   ![1](https://github.com/aryan-mundra/Face-Recognition-with-Real-Time-Database/assets/144268029/48cbf7e8-d436-4e50-bed0-db650c425f36)
    
 9) Firebase console --> Realtime database ---> Create new database in test mode
 10) Firebase console --> Storage ---> Create new storage bucket in test mode
