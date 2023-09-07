@@ -31,9 +31,9 @@
 10) Firebase console --> Storage ---> Create new storage bucket in test mode
 11) Substitute the values of Database Url and Storage bucket in all the files (main.py , EncodeGenerator.py , AddDatatoDatabase.py)
    
-   firebase_admin.initialize_app(cred, {
-    'databaseURL': "PUT URL HERE",
-    'storageBucket': "PUT URL HERE"
+
+    ***'databaseURL': "PUT URL HERE",
+    'storageBucket': "PUT URL HERE"***
 
 11) Run EncodeGenerator.py
 12) Run  AddDatatoDatabase.py
